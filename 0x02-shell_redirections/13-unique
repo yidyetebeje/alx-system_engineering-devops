@@ -1,0 +1,2 @@
+#!/bin/bash
+dort | uniq -u
